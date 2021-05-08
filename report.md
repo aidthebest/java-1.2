@@ -7,15 +7,15 @@
 На тестирование затрачено: 1 час
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/aidthebest/java-1.2/issues/1
+* [Дефект № 1](https://github.com/aidthebest/java-1.2/issues/1)
 
 
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты*:
-* Описание ДЗ (https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
+* Описание ДЗ [ссылка](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
 
-В качестве тестовых данных использовались данные c hhttps://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md:
+В качестве тестовых данных использовались [отсюда](hhttps://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md):
 
 Валидные ключи:
 
