@@ -7,7 +7,7 @@
 На тестирование затрачено: 1 час
 
 В результате тестирования выявлены следующие дефекты:
-* [Дефект № 1](https://github.com/aidthebest/java-1.2/issues/1)
+* [Validations doesn't work](https://github.com/aidthebest/java-1.2/issues/1)
 
 
 ## Описание процесса тестирования
